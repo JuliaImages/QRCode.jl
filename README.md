@@ -1,5 +1,7 @@
 # QRCode
 
+New development goes to [QRCoders](https://github.com/JuliaImages/QRCoders.jl)
+
 [![][action-img]][action-url]
 [![][pkgeval-img]][pkgeval-url]
 [![][codecov-img]][codecov-url]
